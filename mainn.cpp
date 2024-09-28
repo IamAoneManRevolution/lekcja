@@ -9,6 +9,6 @@ int main()
     cout << " Hello world " << " Conflict " << endl;
     //test3
     //test
-    
+    // kolejny koment
     return 0;
 }
