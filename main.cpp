@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+//komentarz
+//testowy komentarz na branchu develop
 int main()
 {
     //:D
